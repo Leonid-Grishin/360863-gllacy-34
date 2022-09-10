@@ -43,6 +43,7 @@ header {
   padding: 0;
   margin: 0;
   list-style-type: none;
+  max-width: 650px;
 }
 
 .header-logo {vertical-align: top}
